@@ -1,0 +1,21 @@
+{
+  "name": "remintpad",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Remintpad · Reverse-engineer anything. AI agents take products apart, rebuild them your way, and launch them on Solana.",
+  "scripts": {
+    "start": "serve -s . -l 3000"
+  },
+  "keywords": [
+    "solana",
+    "remint",
+    "remintpad",
+    "launchpad",
+    "ai-agents",
+    "reverse-engineering",
+    "pumpfun",
+    "defi"
+  ],
+  "author": "WerelayAgent",
+  "license": "Apache-2.0"
+}
